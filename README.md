@@ -22,7 +22,7 @@ Projeyi yerel ortamınızda çalıştırmak için:
 
 ```bash
 # Depoyu klonlayın
-git clone [repo-url]
+git clone [https://github.com/ahmetemreari/todo-app]
 
 # Proje dizinine gidin
 cd todo-react
@@ -75,7 +75,7 @@ To run the project in your local environment:
 
 ```bash
 # Clone the repository
-git clone [repo-url]
+git clone [https://github.com/ahmetemreari/todo-app]
 
 # Go to the project directory
 cd todo-react
